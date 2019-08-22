@@ -1,0 +1,6 @@
+framework module Pods_SaveDatausingRealm {
+  umbrella header "Pods-SaveDatausingRealm-umbrella.h"
+
+  export *
+  module * { export * }
+}
